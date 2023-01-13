@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "txt_reader.py": [
+      {
+        "id": "71ef6729-5301-47ec-9dad-938c2f7d4d88",
+        "line": 52,
+        "version": 499,
+        "index": 958
+      }
+    ]
+  }
 }
