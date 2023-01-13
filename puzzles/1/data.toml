@@ -1,0 +1,24 @@
+[clues]]
+[pos = [
+[dokter,r],
+[honkbal,5],
+[5,kikker],
+[p,100],
+[hockey,25],
+[bowlen,kat],
+[f,25],
+[r,kikker],
+[10,boksen],
+]
+[clues.neg =]
+[[]
+[tandarts,r]
+[]]
+[]
+[[data]]
+[sport = [honkbal,hockey,boksen,bowlen]]
+[geld = [5,10,25,100]]
+[beroep = [tandarts,ingenieur,dokter]]
+[dier = [vos,kikker,olifant,kat]]
+[letter = [c,p,f,r]]
+[
